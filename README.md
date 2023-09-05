@@ -1,7 +1,8 @@
 ### Hello there 👋
 
-I'm Talhaa, a third year undergrad computer science student. Ask me about anything!
+I'm Talhaa, a third year undergrad computer science student and maths tutor. Ask me about anything!
 
+- 🎮 Currently working on NEAT algorithms for videogames
 <!--
 **talhaahussain/talhaahussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
