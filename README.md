@@ -2,7 +2,7 @@
 
 I'm Talhaa, a third year undergrad computer science student and maths tutor. Ask me about anything!
 
-- 🤖 Build computer vision models for pose recognition
+- 🤖 Learning to use computer vision for pose recognition
 - 🎮 Working on NEAT algorithms for videogames
 - 📚 Studying high performance and enterprise computing!
 <!--
