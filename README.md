@@ -2,8 +2,9 @@
 
 I'm Talhaa, a third year undergrad computer science student and maths tutor. Ask me about anything!
 
-- 🎮 Currently working on NEAT algorithms for videogames
-- 📚 Studying evolutionary algorithms and data science!
+- 🤖 Build computer vision models for pose recognition
+- 🎮 Working on NEAT algorithms for videogames
+- 📚 Studying high performance and enterprise computing!
 <!--
 **talhaahussain/talhaahussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
