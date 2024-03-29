@@ -5,6 +5,7 @@ I'm Talhaa, a third year undergrad computer science student and maths tutor. Ask
 - 🤖 Learning to use computer vision for pose recognition
 - 🎮 Working on NEAT algorithms for videogames
 - 📚 Studying high performance and enterprise computing!
+- 😯 Interested in fractals and ASTs
 <!--
 **talhaahussain/talhaahussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
