@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Talhaa, a third year undergrad computer science student and maths tutor. Ask me about anything!
+I'm Talhaa, a third year undergrad computer science student and tutor. Ask me about anything!
 
 - 🤖 Learning to use computer vision for pose recognition
 - 🎮 Working on NEAT algorithms for videogames
