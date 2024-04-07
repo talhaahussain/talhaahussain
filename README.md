@@ -8,10 +8,10 @@ I'm Talhaa, a third year undergrad computer science student and tutor. Ask me ab
 - 😯 Interested in fractals, mazes and ASTs
 
 <a href="https://github.com/talhaahussain/">
-  <img height=247 align="center" src="https://github-readme-stats.vercel.app/api?username=talhaahussain&theme=dark&show_icons=true&hide" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=talhaahussain&theme=dark&show_icons=true&hide" />
 </a>
 <a href="https://github.com/talhaahussain/">
-  <img height=247 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahussain&layout=compact&langs_count=8&card_width=320&hide=Jupyter%20Notebook&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahussain&layout=compact&langs_count=8&card_width=320&hide=Jupyter%20Notebook&theme=dark" />
 </a>
 
 <hr>
