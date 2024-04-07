@@ -7,8 +7,12 @@ I'm Talhaa, a third year undergrad computer science student and tutor. Ask me ab
 - 📚 Studying high performance and enterprise computing!
 - 😯 Interested in fractals, mazes and ASTs
 
-<!---[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaahussain&show_icons=true&theme=dark)](https://github.com/talhaahussain/github-readme-stats)--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahussain&theme=dark)
+<a href="https://github.com/talhaahussain/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=talhaahussain&theme=dark&show_icons=true&hide" />
+</a>
+<a href="https://github.com/talhaahussain/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahussain&layout=compact&langs_count=8&card_width=320&hide=Jupyter%20Notebook&theme=dark" />
+</a>
 <!--
 **talhaahussain/talhaahussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
