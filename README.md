@@ -7,7 +7,7 @@ I'm Talhaa, a third year undergrad computer science student and tutor. Ask me ab
 - 📚 Studying high performance and enterprise computing!
 - 😯 Interested in fractals, mazes and ASTs
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaahussain)](https://github.com/talhahussain/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaahussain&theme=dark)]
 <!--
 **talhaahussain/talhaahussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
