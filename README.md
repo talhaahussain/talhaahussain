@@ -7,7 +7,7 @@ I'm Talhaa, a third year undergrad computer science student and tutor. Ask me ab
 - 📚 Studying high performance and enterprise computing!
 - 😯 Interested in fractals, mazes and ASTs
 
-<a href="https://github.com/talhaahussain/github-readme-stats">
+<a href="https://github.com/talhaahussain/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=talhaahussain&theme=dark&show_icons=true&hide" />
 </a>
 <a href="https://github.com/talhaahussain/">
