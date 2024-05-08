@@ -10,18 +10,10 @@ I'm Talhaa, a third year undergrad computer science student and tutor. Ask me ab
 <hr>
 <div>
 <a href="https://github.com/talhaahussain/">
-  <img height=230 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhaahussain&theme=transparent" />
-  
-<!---https://github-readme-stats.vercel.app/api?username=talhaahussain&theme=transparent&show_icons=true&rank_icon=github&include_all_commits=true--->
-</a>
-</div>
-<div>
-<a href="https://github.com/talhaahussain/dotfiles">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talhaahussain&repo=dotfiles&theme=transparent" />
+  <img height=206 align="center" src="https://github-readme-stats.vercel.app/api?username=talhaahussain&theme=transparent&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/talhaahussain/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahussain&layout=compact&langs_count=8&card_width=320&hide=Jupyter%20Notebook&theme=transparent" />
-</a>
+  <img height=206 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahussain&layout=compact&langs_count=8&card_width=320&hide=Jupyter%20Notebook&theme=transparent" />
 </div>
 
 <hr>
