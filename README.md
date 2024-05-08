@@ -18,6 +18,15 @@ I'm Talhaa, a third year undergrad computer science student and tutor. Ask me ab
 </a>
 </div>
 
+<div>
+<a href="https://github.com/talhaahussain/grappling-pose-identification">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talhaahussain&repo=grappling-pose-identification&theme=transparent" />
+</a>
+<a href="https://github.com/talhaahussain/Donkey-Kong-NEAT">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talhaahussain&repo=Donkey-Kong-NEAT&theme=transparent" />
+</a>
+</div>
+
 <!--
 **talhaahussain/talhaahussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
