@@ -51,8 +51,8 @@ I'm Talhaa, a third year undergrad computer science student and tutor. Ask me ab
 <a href="https://github.com/talhaahussain/Donkey-Kong-NEAT">
   <img height=157.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talhaahussain&repo=Donkey-Kong-NEAT&theme=transparent" />
 </a>
-<a href="https://github.com/talhaahussain/Flappy-Bird-NEAT">
-  <img height=157.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talhaahussain&repo=Flappy-Bird-NEAT&theme=transparent" />
+<a href="https://github.com/talhaahussain/k-means">
+  <img height=157.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talhaahussain&repo=k-means&theme=transparent" />
 </a>
 </div>
 
