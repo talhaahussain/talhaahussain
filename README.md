@@ -9,6 +9,18 @@ I'm Talhaa, a third year undergrad computer science student and tutor. Ask me ab
 
 <hr>
 
+### // **My Stats**
+
+<div>
+<a href="https://github.com/talhaahussain/">
+  <img height=206 align="center" src="https://github-readme-stats.vercel.app/api?username=talhaahussain&theme=transparent&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/talhaahussain/">
+  <img height=206 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahussain&layout=compact&langs_count=8&card_width=320&hide=Jupyter%20Notebook&theme=transparent" />
+</div>
+
+<hr>
+
 ### // **My Favourites**
 
 | Category | Technologies |
@@ -19,18 +31,6 @@ I'm Talhaa, a third year undergrad computer science student and tutor. Ask me ab
 | Editors | ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) | 
 | Databases | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  | 
 | Other | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white) |
-
-<hr>
-
-### // **My Stats**
-
-<div>
-<a href="https://github.com/talhaahussain/">
-  <img height=206 align="center" src="https://github-readme-stats.vercel.app/api?username=talhaahussain&theme=transparent&show_icons=true&rank_icon=github" />
-</a>
-<a href="https://github.com/talhaahussain/">
-  <img height=206 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahussain&layout=compact&langs_count=8&card_width=320&hide=Jupyter%20Notebook&theme=transparent" />
-</div>
 
 <hr>
 
