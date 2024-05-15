@@ -1,6 +1,6 @@
 ### // **About Me**
 
-I'm Talhaa, a third year undergraduate computer science student, tutor, Arch Linux enthusiast and aspiring data scientist. Ask me about anything!
+I'm Talhaa, a third year undergraduate computer science student, tutor and Arch Linux enthusiast, with aspirations in machine learning and data science. Ask me about anything!
 
 - 🤖 Learning to use computer vision for pose recognition
 - 🎮 Working on NEAT algorithms for videogames
