@@ -39,6 +39,15 @@ I'm Talhaa, a third year undergraduate computer science student, tutor and Arch 
 
 <hr>
 
+### // **My Dotfiles**
+<div>
+<a href="https://github.com/talhaahussain/dotfiles">
+  <img height=157.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talhaahussain&repo=dotfiles&theme=transparent" />
+</a>
+</div>
+
+<hr>
+
 ### // **My Projects**
 
 <div>
