@@ -8,7 +8,7 @@ $ infofetch
     ,'              $M&ood,~'`(&##MMMMMMH\                         "Machine Learning"   
    /               ,MMMMMMM#b?#bobMMMMHMMML       ]
   &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk      Occupation: "Mathematics and English Tutor"
- ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L     Position: "United Kingdom" 
+ ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L     Location: "United Kingdom" 
 |               |MMMMMMMMMMMMMMMMMMMMbMH'   T,    Interests: ["Computer vision", "Human pose estimation",                   
 $H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?                   "Generative AI", "Image recognition",                 
 ]MMH#             ""*""""*#MMMMMMMMMMMMM'    -                   "Data analysis", "Evolutionary algorithms", 
