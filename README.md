@@ -9,7 +9,7 @@ I'm Talhaa, a third year undergraduate computer science student, tutor and Arch 
 
 <hr>
 
-### // **My Stats**
+### // **My GitHub Stats**
 
 <div>
 <a href="https://github.com/talhaahussain/">
@@ -22,7 +22,7 @@ I'm Talhaa, a third year undergraduate computer science student, tutor and Arch 
 
 <hr>
 
-### // **My Favourites**
+### // **My Top Technologies**
 
 | Category | Technologies |
 |:---:|:---:|
