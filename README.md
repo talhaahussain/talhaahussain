@@ -61,7 +61,7 @@ I'm Talhaa, a third year undergraduate computer science student, tutor and Arch 
 
 <hr>
 
-### // **My Top Projects**
+### // **My Top Repositories**
 
 <div>
 <a href="https://github.com/talhaahussain/grappling-pose-identification">
