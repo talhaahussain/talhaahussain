@@ -3,24 +3,24 @@
 $ infofetch
               _-oH&&*'`'`?d:>b\_                  talhaa@world
           _o/"`''  '',, dMF9MMMMMHo_              ------------
-       .o&H'        `"MbHMMMMMMMMMMMHo.           Occupation: "Mathematics and English Tutor"
-     .o"" '         vodM*$&&HMMMMMMMMMM?.         Aspirations: "Artificial Intelligence, Data Science, Machine Learning"           
-    ,'              $M&ood,~'`(&##MMMMMMH\        Position: "United Kingdom"   
-   /               ,MMMMMMM#b?#bobMMMMHMMML       Interests: ["Computer vision", "Human pose estimation", 
-  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk                      "Image recognition", "Data analysis",  
- ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L                     "Evolutionary algorithms", "Arch Linux", 
-|               |MMMMMMMMMMMMMMMMMMMMbMH'   T,                    "Simulations", "Fractals", "Mazes", "ASTs"
-$H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?    ]
-]MMH#             ""*""""*#MMMMMMMMMMMMM'    -    Favourite Language: "Python"
-MMMMMb_                   |MMMMMMMMMMMP'     :    Current Status: "Completing end of year exams, looking for internships"
-HMMMMMMMHo                 `MMMMMMMMMT       .    
-?MMMMMMMMP                  9MMMMMMMM}       -    
--?MMMMMMM                  |MMMMMMMMM?,d-    '    
- :|MMMMMM-                 `MMMMMMMT .M|.   :     contact me
-  .9MMM[                    &MMMMM*' `'    .      ----------
-   :9MMk                    `MMM#"        -       LinkedIn: "linkedin.com/in/talhaahussain/"
-     &M}                     `          .-
-      `&.                             .
+       .o&H'        `"MbHMMMMMMMMMMMHo.           General: "3rd year undergraduate MSci computer science student"
+     .o"" '         vodM*$&&HMMMMMMMMMM?.         Aspirations: ["Artificial Intelligence", "Data Science",          
+    ,'              $M&ood,~'`(&##MMMMMMH\                         "Machine Learning"   
+   /               ,MMMMMMM#b?#bobMMMMHMMML       ]
+  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk      Occupation: "Mathematics and English Tutor"
+ ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L     Position: "United Kingdom" 
+|               |MMMMMMMMMMMMMMMMMMMMbMH'   T,    Interests: ["Computer vision", "Human pose estimation",                   
+$H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?                   "Generative AI", "Image recognition",                 
+]MMH#             ""*""""*#MMMMMMMMMMMMM'    -                   "Data analysis", "Evolutionary algorithms", 
+MMMMMb_                   |MMMMMMMMMMMP'     :                   "Arch Linux", "Simulations", "Fractals", "Mazes" 
+HMMMMMMMHo                 `MMMMMMMMMT       .    ]
+?MMMMMMMMP                  9MMMMMMMM}       -    Favourite Language: "Python" 
+-?MMMMMMM                  |MMMMMMMMM?,d-    '    Current Status: "Doing EoY exams, looking for internships"
+ :|MMMMMM-                 `MMMMMMMT .M|.   :     
+  .9MMM[                    &MMMMM*' `'    .       
+   :9MMk                    `MMM#*        -       contact@me 
+     &M}                     `          .-        ----------
+      `&.                             .           LinkedIn: "linkedin.com/in/talhaahussain/"
         `~,   .                     ./
             . _                  .-
               '`--._,dd###pp=""'
