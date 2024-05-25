@@ -7,6 +7,33 @@ I'm Talhaa, a third year undergraduate computer science student, tutor and Arch 
 - 📚 Studying high performance and enterprise computing!
 - 😯 Interested in fractals, mazes and ASTs
 
+```haskell
+$ infofetch
+              _-oH&&*'`'`?d:>b\_                  talhaa@world
+          _o/"`''  '',, dMF9MMMMMHo_              ------------
+       .o&H'        `"MbHMMMMMMMMMMMHo.           Occupation: "Mathematics and English Tutor"
+     .o"" '         vodM*$&&HMMMMMMMMMM?.         Aspirations: "Artificial Intelligence, Data Science, Machine Learning"           
+    ,'              $M&ood,~'`(&##MMMMMMH\        Position: "United Kingdom"   
+   /               ,MMMMMMM#b?#bobMMMMHMMML       Interests: ["Computer vision", "Human pose estimation", 
+  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk                      "Image recognition", "Data analysis",  
+ ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L                     "Evolutionary algorithms", "Arch Linux", 
+|               |MMMMMMMMMMMMMMMMMMMMbMH'   T,                    "Simulations", "Fractals", "Mazes", "ASTs"
+$H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?    ]
+]MMH#             ""*""""*#MMMMMMMMMMMMM'    -    Favourite Language: "Python"
+MMMMMb_                   |MMMMMMMMMMMP'     :    Current Status: "Completing end of year exams, looking for internships"
+HMMMMMMMHo                 `MMMMMMMMMT       .    
+?MMMMMMMMP                  9MMMMMMMM}       -    
+-?MMMMMMM                  |MMMMMMMMM?,d-    '    
+ :|MMMMMM-                 `MMMMMMMT .M|.   :     contact me
+  .9MMM[                    &MMMMM*' `'    .      ----------
+   :9MMk                    `MMM#"        -       LinkedIn: "linkedin.com/in/talhaahussain/"
+     &M}                     `          .-
+      `&.                             .
+        `~,   .                     ./
+            . _                  .-
+              '`--._,dd###pp=""'
+```
+
 <hr>
 
 ### // **My GitHub Stats**
