@@ -48,19 +48,6 @@ I'm Talhaa, a third year undergraduate computer science student, tutor and Arch 
 
 <hr>
 
-### // **My Top Gists**
-
-<div>
-<a href="https://gist.github.com/talhaahussain/6a8a7671686431602ce9b340f36e776f">
-  <img height=182.329 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=6a8a7671686431602ce9b340f36e776f&theme=transparent" />
-</a>
-<a href="https://gist.github.com/talhaahussain/a39fd48ee57b4c74bd751497871c3043">
-  <img height=182.329 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=a39fd48ee57b4c74bd751497871c3043&theme=transparent"/>
-</a>
-</div>
-
-<hr>
-
 ### // **My Top Repositories**
 
 <div>
@@ -80,6 +67,18 @@ I'm Talhaa, a third year undergraduate computer science student, tutor and Arch 
 </a>
 </div>
 
+<hr>
+
+### // **My Top Gists**
+
+<div>
+<a href="https://gist.github.com/talhaahussain/6a8a7671686431602ce9b340f36e776f">
+  <img height=182.329 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=6a8a7671686431602ce9b340f36e776f&theme=transparent" />
+</a>
+<a href="https://gist.github.com/talhaahussain/a39fd48ee57b4c74bd751497871c3043">
+  <img height=182.329 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=a39fd48ee57b4c74bd751497871c3043&theme=transparent"/>
+</a>
+</div>
 
 <!--
 **talhaahussain/talhaahussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
