@@ -6,7 +6,7 @@ $ infofetch
        .o&H'        `"MbHMMMMMMMMMMMHo.           General: "3rd year undergraduate MSci computer science student"
      .o"" '         vodM*$&&HMMMMMMMMMM?.         Aspirations: ["Artificial Intelligence", "Data Science",          
     ,'              $M&ood,~'`(&##MMMMMMH\                         "Machine Learning"   
-   /               ,MMMMMMM#b?#bobMMMMHMMML       ]
+   /               ,MMMMMMM#b?#HAL9000-MMML       ]
   &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk      Occupation: "Mathematics and English Tutor"
  ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L     Location: "United Kingdom" 
 |               |MMMMMMMMMMMMMMMMMMMMbMH'   T,    Interests: ["Computer vision", "Human pose estimation",                   
