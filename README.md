@@ -48,7 +48,20 @@ I'm Talhaa, a third year undergraduate computer science student, tutor and Arch 
 
 <hr>
 
-### // **My Projects**
+### // **My Top Gists**
+
+<div>
+<a href="https://gist.github.com/talhaahussain/6a8a7671686431602ce9b340f36e776f">
+  <img height=182.329 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=6a8a7671686431602ce9b340f36e776f&theme=transparent" />
+</a>
+<a href="https://gist.github.com/talhaahussain/a39fd48ee57b4c74bd751497871c3043">
+  <img height=182.329 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=a39fd48ee57b4c74bd751497871c3043&theme=transparent"/>
+</a>
+</div>
+
+<hr>
+
+### // **My Top Projects**
 
 <div>
 <a href="https://github.com/talhaahussain/grappling-pose-identification">
