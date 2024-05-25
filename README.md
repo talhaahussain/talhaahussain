@@ -1,12 +1,4 @@
 ### // **About Me**
-
-I'm Talhaa, a third year undergraduate computer science student, tutor and Arch Linux enthusiast, with aspirations in machine learning and data science. Ask me about anything!
-
-- 🤖 Learning to use computer vision for pose recognition
-- 🎮 Working on NEAT algorithms for videogames
-- 📚 Studying high performance and enterprise computing!
-- 😯 Interested in fractals, mazes and ASTs
-
 ```haskell
 $ infofetch
               _-oH&&*'`'`?d:>b\_                  talhaa@world
