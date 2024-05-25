@@ -18,7 +18,7 @@ HMMMMMMMHo                 `MMMMMMMMMT       .    ]
 -?MMMMMMM                  |MMMMMMMMM?,d-    '    Current Status: "Doing EoY exams, looking for internships"
  :|MMMMMM-                 `MMMMMMMT .M|.   :     
   .9MMM[                    &MMMMM*' `'    .       
-   :9MMk                    `MMM#*        -       contact@me 
+   :9MMk                    `MMM#*        -       contact me 
      &M}                     `          .-        ----------
       `&.                             .           LinkedIn: "linkedin.com/in/talhaahussain/"
         `~,   .                     ./
