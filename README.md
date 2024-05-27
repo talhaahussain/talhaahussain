@@ -100,6 +100,9 @@ HMMMMMMMHo                 `MMMMMMMMMT       .    ]
 </a>
 </div>
 
+<hr>
+
+![ViewCounter](https://komarev.com/ghpvc/?username=talhaahussain&style=for-the-badge&color=000000)
 <!--
 **talhaahussain/talhaahussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
