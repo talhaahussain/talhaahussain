@@ -28,7 +28,7 @@ HMMMMMMMHo                 `MMMMMMMMMT       .    ]
 
 <hr>
 
-### // **My GitHub Stats**
+### // **My Public GitHub Stats**
 
 <div>
 <a href="https://github.com/talhaahussain/">
