@@ -7,7 +7,7 @@ $ infofetch
      .o"" '         vodM*$&&HMMMMMMMMMM?.         Aspirations: ["Artificial Intelligence", "Data Science",          
     ,'              $M&ood,~'`(&##MMMMMMH\                         "Machine Learning"   
    /               ,MMMMMMM#b?#HAL9000-MMML       ]
-  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk      Occupation: "Mathematics and English Tutor"
+  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk      Occupation: "Machine Learning Intern, Maths and English Tutor"
  ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L     Location: "United Kingdom" 
 |               |MMMMMMMMMMMMMMMMMMMMbMH'   T,    Interests: ["Computer vision", "Human pose estimation",                   
 $H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?                   "Generative AI", "Image recognition",                 
