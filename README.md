@@ -69,6 +69,15 @@ HMMMMMMMHo                 `MMMMMMMMMT       .    ]
 
 <hr>
 
+### // **My Static Site**
+<div>
+<a href="https://github.com/talhaahussain/talhaahussain.github.io">
+  <img height=126 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talhaahussain&repo=talhaahussain.github.io&theme=transparent" />
+</a>
+</div>
+
+<hr>
+
 ### // **My Top Repositories**
 
 <div>
