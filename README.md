@@ -7,7 +7,7 @@ $ infofetch
      .o"" '         vodM*$&&HMMMMMMMMMM?.         Aspirations: ["Artificial Intelligence", "Data Science",          
     ,'              $M&ood,~'`(&##MMMMMMH\                         "Machine Learning"   
    /               ,MMMMMMM#b?#HAL9000-MMML       ]
-  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk      Occupation: "Machine Learning Intern, Maths and English Tutor"
+  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk      Occupation: "Junior Machine Learning and Backend Developer"
  ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L     Location: "United Kingdom" 
 |               |MMMMMMMMMMMMMMMMMMMMbMH'   T,    Interests: ["Computer vision", "Human pose estimation",                   
 $H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?                   "Generative AI", "Image recognition",                 
@@ -15,7 +15,7 @@ $H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?                   "Generative AI"
 MMMMMb_                   |MMMMMMMMMMMP'     :                   "Arch Linux", "Simulations", "Fractals", "Mazes" 
 HMMMMMMMHo                 `MMMMMMMMMT       .    ]
 ?MMMMMMMMP                  9MMMMMMMM}       -    Favourite Language: "Python" 
--?MMMMMMM                  |MMMMMMMMM?,d-    '    Current Status: "Interning with Kuppa!"
+-?MMMMMMM                  |MMMMMMMMM?,d-    '    Current Status: "Learning about AWS..."
  :|MMMMMM-                 `MMMMMMMT .M|.   :     
   .9MMM[                    &MMMMM*' `'    .       
    :9MMk                    `MMM#*        -       contact me 
