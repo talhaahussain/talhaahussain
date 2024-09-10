@@ -15,7 +15,7 @@ $H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?                   "Generative AI"
 MMMMMb_                   |MMMMMMMMMMMP'     :                   "Arch Linux", "Simulations", "Fractals", "Mazes" 
 HMMMMMMMHo                 `MMMMMMMMMT       .    ]
 ?MMMMMMMMP                  9MMMMMMMM}       -    Favourite Language: "Python" 
--?MMMMMMM                  |MMMMMMMMM?,d-    '    Current Status: "Learning about AWS..."
+-?MMMMMMM                  |MMMMMMMMM?,d-    '    Current Status: "Suffering with AWS..."
  :|MMMMMM-                 `MMMMMMMT .M|.   :     
   .9MMM[                    &MMMMM*' `'    .       
    :9MMk                    `MMM#*        -       contact me 
