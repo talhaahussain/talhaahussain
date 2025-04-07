@@ -79,11 +79,12 @@ HMMMMMMMHo                 `MMMMMMMMMT       .    ]
 <hr>
 
 ### // **My Top Repositories**
-
+<!---
 <div>
 <a href="https://github.com/talhaahussain/grappling-pose-identification">
   <img height=157.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talhaahussain&repo=grappling-pose-identification&theme=transparent" />
 </a>
+--->
 <a href="https://github.com/talhaahussain/RESTful-spreadsheet">
   <img height=157.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=talhaahussain&repo=RESTful-spreadsheet&theme=transparent" />
 </a>
